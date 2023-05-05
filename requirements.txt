@@ -1,0 +1,3 @@
+pip install python-csv
+pip install matplotlib
+sudo apt-get install python-tk
